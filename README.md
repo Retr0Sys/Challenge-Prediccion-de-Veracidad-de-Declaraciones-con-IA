@@ -53,6 +53,6 @@ Generación de Predicciones: El modelo entrenado se aplica al archivo de prueba 
 Exportación y Validación Externa: El archivo con las etiquetas predichas se exporta y se somete a una plataforma de comprobación externa, la cual valida la eficiencia y la precisión del modelo frente a los valores reales.
 
 ## Resultados
-   El modelo tiene un porcentaje de aprobación de alrededor del 60% porciento.
+   El modelo tiene un porcentaje de aprobación de alrededor del 60% porciento por lo que dentro de todo funciona :).
    
 <img width="447" height="222" alt="Captura de pantalla 2025-10-01 090610" src="https://github.com/user-attachments/assets/c835e0de-fe77-4b2f-b2a5-0344e03f42f7" />
